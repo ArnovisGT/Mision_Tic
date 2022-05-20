@@ -4,8 +4,6 @@ c = √ a2 + b2
 Considera que
 Para calcular una raíz cuadrada, toda la formula tiene que ser elevada a 0.5, en Python seria
 **0.5, donde el operador matemático seria ** exponente"""
-from calendar import c
-
 
 a = float(input("Ingrese el lado opuesto: "))
 b = float(input("Ingrese el lado adyacente: "))

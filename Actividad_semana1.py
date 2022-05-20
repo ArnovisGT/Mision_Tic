@@ -4,4 +4,4 @@ Considera que
 
 libras = int(input("Ingrese su peso en Libras " )) 
 kilogramos = libras * 0.453592
-print(f"El peso en Kilogramos es: {kilogramos}") 
+print(f"Su peso en Kilogramos es: {kilogramos}") 
